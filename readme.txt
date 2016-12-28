@@ -1,9 +1,1 @@
-aaaaaaaaaaa
-bbbbbbbb`:
-:wq
-dsalsadflj
-
-s000
-
-ddsadfs
-dsdfs
+Git is a version control system.
